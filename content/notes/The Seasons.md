@@ -1,0 +1,2 @@
+**Seasons**- The Feast is split into two seasons: the [[North Wind]] and the [[South Wind]].
+The [[South Wind]] brings a dry, somewhat salty air into [[The Feast]] from The [[Unending Waters]], and the [[North Wind]] brings damp, foul air out from [[The Void]]. Luckily, the towers of [[The Bitter]] trap most of the polluted smog before it can reach anywhere further, so all that remains for the rest of [[The Feast]] is a moist warm breeze. There are periods of calm between each wind of varying lengths, but never is the same wind repeated twice in a row.

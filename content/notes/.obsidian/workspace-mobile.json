@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "ee6754d24fa5f876",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5cd781654b957b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77635a6d3135ff75",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Map.jpg"
+              }
+            },
+            "group": "39cafc4a87aa4b3a"
+          },
+          {
+            "id": "7fd200f5e6890461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Void.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c457435435b197a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Void.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ccc78c849d7701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Seasons.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "39480f222fbf8f14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fda047718c6446b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Map.jpg",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.684761659448458,
+                  "close": true
+                }
+              }
+            },
+            "group": "39cafc4a87aa4b3a"
+          },
+          {
+            "id": "75372165a477601e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Feast/East Sour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f7751e4d34314b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "58914333b42d591a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Feast/West Sour.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1bc94362529dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Feast.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7917b15e63b175b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f0687ce1d16e86cb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "da4cedbc95e05bc1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0c8d07417cd44789",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7cb73ae415b22d8d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0e2e9c37e8068e67",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16a66bffe142082b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Seasons.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1260e5f17d714cf4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Seasons.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e7096275ce00f2d6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Seasons.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22ccc78c849d7701",
+  "lastOpenFiles": [
+    "Locations/The Void.md",
+    "The Seasons.md",
+    "South Wind.md",
+    "North Wind.md",
+    "People Groups/Umami Forest Tribe.md",
+    "People Groups",
+    "[[Umami Forest.md",
+    "Locations/The Feast/The Bitter.md",
+    "Map.jpg",
+    "Materials",
+    "Materials/Void Acid.md",
+    "Locations/The River.md",
+    "Locations/The Feast/Umami Forest.md",
+    "Locations/The Feast/The Sweet.md",
+    "Locations/The Feast.md",
+    "Locations/Teeth Mountains.md",
+    "Locations/Endless Waters.md",
+    "Locations/The Feast",
+    "Locations/The Feast/Salty Beaches.md",
+    "Locations/The Feast/East Sour.md",
+    "Locations/The Feast/West Sour.md"
+  ]
+}
